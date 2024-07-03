@@ -4,7 +4,7 @@
 
 - Along with Dijikstra's Algorithm this visualiser provides you how other Algorithms like A* - Star , DFS and BFS search the entire graph in order to find the shortest path to reach the desired end node .
 
-- You can play around with this website link : 
+- You can play around with this website link : https://visualisepath.netlify.app/
 
 ## Installation and Setup
 
