@@ -44,6 +44,6 @@
 ![Algorithm Running](./snippet/algo-running.png)<br>
 
 4. Shortest Path.<br>
-![Shortest Path](./snippet/algo-running.png)<br></br>
+![Shortest Path](./snippet/shortest-path.png)<br></br>
 
    
